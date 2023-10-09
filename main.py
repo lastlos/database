@@ -116,7 +116,7 @@ def onumber(char):
 
 root = Tk()
 root.geometry("1500x500")
-root.title("Database Demo")
+root.title("Stok Uygulama")
 root.resizable(width=False, height=False)
 
 con = sqlite3.connect("database.db")
